@@ -20,9 +20,9 @@
 ### Why?
 
 ```bash
-$ npm install
-$ npm run build # 5min!
-$ node app.js
+npm install
+npm run build # 5min!
+node app.js
 ```
 
 - Configuring it by hand is tedious! --> `.gitpod.yml`
@@ -43,7 +43,7 @@ $ node app.js
 
 - In the future, we'd like to make always generate a `.gitpod.yml`, for every Project: [issue](https://github.com/gitpod-io/gitpod/issues/6921)
 
-### Demo!
+### Demo:
 
 ---
 
@@ -59,7 +59,7 @@ $ node app.js
 
 **Q What is the schedule of new features / bug fixes, from the time the PR is marked "solved/done" until it is available in production?**
 
-**A:** _Engineering teams at Gitpod are split in 3 teams: Meta, Workspace and IDE. Each release new features in different schedules. For instance, Meta releases every Tuesday and Tuesday. In the case of a bug fix or feature has been merged on Friday, it then is shipped on the Tuesday._
+**A:** _Engineering teams at Gitpod are split in 3 teams: Meta, Workspace and IDE. Each release new features in different schedules. For instance, Meta releases every Tuesday and Tuesday. In the case of a bugfix or feature has been merged on Friday, it then is shipped on the Tuesday._
 
 **Q. How does the current vision compare with the initial vision that led to the creation of Gitpod?**
 
@@ -79,5 +79,5 @@ _Discord is where our community hangs out. This may change in the future - we ma
 
 ## Extra resources
 
-- https://github.com/gitpod-io/definitely-gp
-- https://discord.com/channels/816244985187008514/879914823570309160/917760331172937738 
+- https://github.com/gitpod-io/definitely-gp/
+- https://discord.com/channels/816244985187008514/879914823570309160/917760331172937738/
