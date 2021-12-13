@@ -43,8 +43,7 @@ node app.js
 
 - In the future, we'd like to make always generate a `.gitpod.yml`, for every Project: [issue](https://github.com/gitpod-io/gitpod/issues/6921)
 
-### Demo:
-
+### Demo
 ---
 
 ## Questions from the community
@@ -79,5 +78,5 @@ _Discord is where our community hangs out. This may change in the future - we ma
 
 ## Extra resources
 
-- https://github.com/gitpod-io/definitely-gp/
-- https://discord.com/channels/816244985187008514/879914823570309160/917760331172937738/
+- <https://github.com/gitpod-io/definitely-gp/>
+- <https://discord.com/channels/816244985187008514/879914823570309160/917760331172937738/>
