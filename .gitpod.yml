@@ -1,0 +1,6 @@
+tasks:
+  - init: echo 'Office Hours Notes'
+
+vscode:
+  extensions:
+    - dendron.dendron-markdown-notes

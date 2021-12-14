@@ -1,3 +1,4 @@
+
 # Community Office Hour: 08-12-21
 
 **What was covered:**
@@ -19,12 +20,12 @@
 ### Why?
 
 ```bash
-$ npm install
-$ npm run build # 5min!
-$ node app.js
+npm install
+npm run build # 5min!
+node app.js
 ```
 
-- configuring by hand is tedious! --> `.gitpod.yml`
+- Configuring it by hand is tedious! --> `.gitpod.yml`
 
 - but... writing a `.gitpod.yml` is complicated! --> auto-generate? (~80% solution is fine)
 
@@ -40,10 +41,9 @@ $ node app.js
 
 - runs when you add a new Project to Gitpod, but it doesn't have a `.gitpod.yml` yet
 
-- in the future, we'd like to make always generate a `.gitpod.yml`, for every Project: [issue](https://github.com/gitpod-io/gitpod/issues/6921)
+- In the future, we'd like to make always generate a `.gitpod.yml`, for every Project: [issue](https://github.com/gitpod-io/gitpod/issues/6921)
 
-### Demo!
-
+### Demo
 ---
 
 ## Questions from the community
@@ -52,13 +52,13 @@ $ node app.js
 
 **A:** _Gitpod's dashboard calls this server API method: [guessRepositoryConfiguration(cloneUrl)](https://github.com/gitpod-io/gitpod/blob/a481e8b536295863e1767ea349fc511666e1c84d/components/server/src/workspace/gitpod-server-impl.ts#L1684-L1694)_
 
-**Q: What's the difference between free, professional-opensource and paid plans in terms of hardware resources and cluster traffic, if there are any.**
+**Q: What's the difference between free, professional-open source and paid plans in terms of hardware resources and cluster traffic, if there are any.**
 
 **A:** _Currently, there is no difference. However, this is something we've definitely considered. Keep an eye out!_
 
 **Q What is the schedule of new features / bug fixes, from the time the PR is marked "solved/done" until it is available in production?**
 
-**A:** _Engineering teams at Gitpod are split in 3 teams: Meta, Workspace and IDE. Each release new features in different schedules. For instance, Meta releases every Tuesday and Tuesday. In the case of a bug fix or feature has been merged on Friday, it then is shipped on the Tuesday._
+**A:** _Engineering teams at Gitpod are split in 3 teams: Meta, Workspace and IDE. Each release new features in different schedules. For instance, Meta releases every Tuesday and Tuesday. In the case of a bugfix or feature has been merged on Friday, it then is shipped on the Tuesday._
 
 **Q. How does the current vision compare with the initial vision that led to the creation of Gitpod?**
 
@@ -78,5 +78,5 @@ _Discord is where our community hangs out. This may change in the future - we ma
 
 ## Extra resources
 
-- https://github.com/gitpod-io/definitely-gp
-- https://discord.com/channels/816244985187008514/879914823570309160/917760331172937738 
+- <https://github.com/gitpod-io/definitely-gp/>
+- <https://discord.com/channels/816244985187008514/879914823570309160/917760331172937738/>
