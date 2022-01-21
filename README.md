@@ -31,4 +31,10 @@ If you join one of our office hours, this is what you can expect:
 📅 Access our public Google calendar [is avaliable here](<https://calendar.google.com/calendar/embed?src=c_pjqbs3u9afudmb2ebjb701eph8%40group.calendar.google.com&ctz=Europe%2FLondon>)
 
 - Subscribe to this Google Calendar by adding `c_pjqbs3u9afudmb2ebjb701eph8@group.calendar.google.com` to your Google Calendar.
-- The iCal version [is avaliable here.](<https://calendar.google.com/calendar/ical/c_pjqbs3u9afudmb2ebjb701eph8%40group.calendar.google.com/public/basic.ics>)
+- The iCal version [is avaliable here.](https://calendar.google.com/calendar/ical/c_pjqbs3u9afudmb2ebjb701eph8%40group.calendar.google.com/public/basic.ics)
+
+## Past Events
+
+* 5th January 2022 - [Gitpod AMA](./2022/01/2022-01-05.md)
+* 16th December 2021 - [Gitpod self-hosted installer demo](./2021/12/2021-12-16.md)
+* 8th December 2021 - [Auto-generating the `gitpod.yml`](./2021/12/2021-12-08.md)
