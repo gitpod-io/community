@@ -35,6 +35,8 @@ If you join one of our office hours, this is what you can expect:
 
 ## Past Events
 
+* 19th January 2022 - [Project Environment Variables demo](./2022/01/2022-01-19.md)
+* 12th January 2022 - [Community Hero Will - Nx demo](./2022/01/2022-01-12.md)
 * 5th January 2022 - [Gitpod AMA](./2022/01/2022-01-05.md)
 * 16th December 2021 - [Gitpod self-hosted installer demo](./2021/12/2021-12-16.md)
 * 8th December 2021 - [Auto-generating the `gitpod.yml`](./2021/12/2021-12-08.md)
