@@ -35,6 +35,7 @@ If you join one of our office hours, this is what you can expect:
 
 ## Past Events
 
+* 26th January 2022 - [AXON's demo and AMA](./2022/01/2022-01-26.md)
 * 19th January 2022 - [Project Environment Variables demo](./2022/01/2022-01-19.md)
 * 12th January 2022 - [Community Hero Will - Nx demo](./2022/01/2022-01-12.md)
 * 5th January 2022 - [Gitpod AMA](./2022/01/2022-01-05.md)
