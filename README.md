@@ -35,9 +35,9 @@ If you join one of our office hours, this is what you can expect:
 
 ## Past Events
 
-- 2nd March 2022 - [dotfiles demo, community showcase and AMA](./2022/03/2022-03-02.md)
-- 16th February 2022 - [DrupalPod Demo](./2022/02/2022-02-16.md)
-- 9th February 2022 - [Community Showcase: Woss](./2022/02/2022-02-09.md)
+- 2nd March 2022 - [AXON's dotfiles demo, Community Showcase and AMA](./2022/03/2022-03-02.md)
+- 16th February 2022 - [Community Hero: Shaal x DrupalPod Demo](./2022/02/2022-02-16.md)
+- 9th February 2022 - [Community Showcase: Woss' Git GPG remote signing](./2022/02/2022-02-09.md)
 - 26th January 2022 - [AXON's demo and AMA](./2022/01/2022-01-26.md)
 - 19th January 2022 - [Project Environment Variables demo](./2022/01/2022-01-19.md)
 - 12th January 2022 - [Community Hero Will - Nx demo](./2022/01/2022-01-12.md)
