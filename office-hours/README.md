@@ -35,6 +35,7 @@ If you join one of our office hours, this is what you can expect:
 
 ## Past Events
 
+- 10 August 2022 - Community demos: Tom Barber and Evan Mattiza
 - 2nd March 2022 - [AXON's dotfiles demo, Community Showcase and AMA](./2022/03/2022-03-02.md)
 - 16th February 2022 - [Community Hero: Shaal x DrupalPod Demo](./2022/02/2022-02-16.md)
 - 9th February 2022 - [Community Showcase: Woss' Git GPG remote signing](./2022/02/2022-02-09.md)
