@@ -1,6 +1,6 @@
 # Gitpod Community Office Hours
 
-We started hosting weekly Community Office Hours every Wednesday at 5:30PM CET ([What time is that where you live? Check here!](https://www.timeanddate.com/worldclock/converter.html?iso=20211216T163000&p1=tz_gmt&p2=tz_cet&p3=tz_pt&p4=240)) on our [community Discord server.](https://www.gitpod.io/chat)
+We host bi-weekly Community Office Hours on Wednesday at 5:30PM CET ([What time is that where you live? Check here!](https://www.timeanddate.com/worldclock/converter.html?iso=20211216T163000&p1=tz_gmt&p2=tz_cet&p3=tz_pt&p4=240)) on our [community Discord server.](https://www.gitpod.io/chat)
 
 Also see [the internal RFC](https://www.notion.so/gitpod/Gitpod-Community-Office-Hours-e85cc0d0a92644409635956292bf6b01) on this proposal.
 
