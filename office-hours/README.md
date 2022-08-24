@@ -20,7 +20,7 @@ If you join one of our office hours, this is what you can expect:
 
 📝 There is never any pressure for you to switch your mic or camera on, you can just listen in the background.
 
-💬 There is an accompanying `#office-hours-text` where you can type responses/questions there if you'd prefer.
+💬 You can write messages in the voice channel
 
 🚫 In some cases, moderators mute you if you accidentally unmute yourself and someone else is talking.
 
