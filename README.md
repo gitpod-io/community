@@ -1,5 +1,7 @@
-# Gitpod Community Repo
+# Gitpod Community Repo 🧡
 
 This repo is used for storing various community things.
 
-Feel free to check https://www.gitpod.io/community if you want to learn more about the Gitpod Community.
+🔖 To learn more about the Gitpod Community, feel free to head over to our [community page.](https://www.gitpod.io/community)
+
+🦩 Feel free to also join us over on [Discord](https://www.gitpod.io/chat) 🦩
