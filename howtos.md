@@ -1,3 +1,5 @@
+A temporary place, might get merged into the official docs.
+
 # How to open README.md in preview mode?
 
 - in `.gitpod.yml`, in tasks:
