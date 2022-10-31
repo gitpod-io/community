@@ -45,3 +45,7 @@ Hey - I’ve made a simple shortcut for anyone using MacOS & Safari as their def
 This shortcut Open in GitPod adds itself to the menu bar and when ran it adds your current Safari’s URL to https://gitpod.io/# thus opening a new workspace. 
 
 It can also be ran with CTRL + SHIFT + G  but that does not seem to work for me atm.
+
+# Workaround for [Support 'git@github.com:{user}/{repo}.git' format for '.gitmodules'](https://github.com/gitpod-io/gitpod/issues/8018)
+
+https://github.com/gitpod-io/gitpod/issues/8018#issuecomment-1297181114
