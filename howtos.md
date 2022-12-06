@@ -5,7 +5,7 @@ A temporary place, might get merged into the official docs.
 - in `.gitpod.yml`, in tasks:
 ```yaml
   - name: Open readme
-    command: gp await port 23000 1>/dev/null && gp open README.md
+    command: gp open README.md
 ```
 - in .vscode/settings.json:
 ```json
