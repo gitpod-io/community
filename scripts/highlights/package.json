@@ -1,0 +1,15 @@
+{
+  "name": "community-highlights-action",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@8.9.2",
+  "engines": {
+    "node": ">=16.14",
+    "pnpm": ">=8.0.0",
+    "npm": "forbidden, use pnpm"
+  },
+  "dependencies": {
+    "@actions/core": "^1.10.1",
+    "@actions/github": "^6.0.0"
+  }
+}
