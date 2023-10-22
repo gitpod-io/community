@@ -39,7 +39,7 @@ For example:
 
 ## Template
 
-```
+```md
 ## October 20, 2023
 
 - **Events & Conferences**
