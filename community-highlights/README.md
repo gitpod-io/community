@@ -37,6 +37,36 @@ For example:
 - [`@axonasif`](https://www.twitter.com/axonasif) created several new contributions to `gitpod-samples` [[1]](https://github.com/gitpod-samples) [[2]](https://github.com/gitpod-samples)
 - [`@ghostdevv`](https://twitter.com/onlyspaceghost) supported the [**exciting meet-up in London**](https://twitter.com/onlyspaceghost/status/1691560381116752161)!
 
+## Template
+
+```
+## October 20, 2023
+
+- **Events & Conferences**
+
+  - [Upcoming community meetup in X](https://zombo.com/)! Thanks `@someone` for organising :flag:
+
+- **Community Heroes**
+
+  - `@someone` is a new community hero
+
+- **Content**
+
+  - [Gitpod rocks, here's why](https://zombo.com/) - blog post by `@someone`
+
+- **Projects**
+
+  - [Recipe project built by `@someone` on Gitpod](https://zombo.com/)
+
+- **Gitpodify**
+
+  - [@someone Gitpodified X project](https://zombo.com)
+
+- **Code Contributions**
+
+  - [Add something awesome](https://github.com/gitpod-io/gitpod/issues/6877) by `@someone`
+```
+
 ## Looking to contribute?
 Learn from [Pauline](https://twitter.com/paulienuh) the six ways you can contribute to the Gitpod community.
 
