@@ -24,7 +24,3 @@ Learn from [Pauline](https://twitter.com/paulienuh) the six ways you can contrib
 ## Your Gitpod Community team
 
 We're always hanging out in our [Discord server](https://www.gitpod.io/chat) - come say hello!
-
-- [@pawlean](https://github.com/pawlean)
-- [@axonasif](https://github.com/axonasif)
-- [@ghostdevv](https://github.com/ghostdevv)
